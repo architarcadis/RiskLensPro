@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
+lime
+matplotlib
+streamlit # Good practice to include streamlit itself
